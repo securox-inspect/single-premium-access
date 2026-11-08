@@ -7,7 +7,7 @@
 <p>
   <a href="https://shop.inspect.wtf/produkt/single-premium-access"><img src="https://img.shields.io/badge/Preis-ab%2014%2C95%C2%A0%E2%82%AC-c1121f?style=for-the-badge&labelColor=121417" alt="Preis ab 14,95 €" height="28"></a>
   <img src="https://img.shields.io/badge/Version-1.0.0-2b2f36?style=for-the-badge&labelColor=121417" alt="Version 1.0.0" height="28">
-  <img src="https://img.shields.io/badge/Sofort--Download-2b2f36?style=for-the-badge" alt="Sofort-Download" height="28">
+  <img src="https://img.shields.io/badge/Sofort%20verf%C3%BCgbar-2b2f36?style=for-the-badge" alt="Sofort verfügbar" height="28">
   <img src="https://img.shields.io/badge/Support-Deutsch-2b2f36?style=for-the-badge&labelColor=121417" alt="Support Deutsch" height="28">
 </p>
 
